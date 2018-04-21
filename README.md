@@ -133,31 +133,31 @@ The following is a list of all of the challenges used for the 2018 CTF along wit
   <tr>
     <td>Adverse Reaction</td>
     <td>100</td>
-    <td><a href="https://github.com/mitre-cyber-academy/2018-Web-100">2018-Web-100</a></td>
+    <td><a href="https://github.com/mitre-cyber-academy/2018-Web-100a">2018-Web-100</a></td>
     <td>We see you&#39;re running an ad-blocker. To view this content consider opening yourself up to malware. You can also subscribe for $9.99/month and still receive ads!</td>
   </tr>
   <tr>
     <td>Click Me</td>
     <td>100</td>
-    <td><a href="https://github.com/mitre-cyber-academy/2018-Web-100">2018-Web-100</a></td>
+    <td><a href="https://github.com/mitre-cyber-academy/2018-Web-100b">2018-Web-100</a></td>
     <td>No really, go for it.</td>
   </tr>
   <tr>
     <td>Two Problems</td>
     <td>100</td>
-    <td><a href="https://github.com/mitre-cyber-academy/2018-Web-100">2018-Web-100</a></td>
+    <td><a href="https://github.com/mitre-cyber-academy/2018-Web-100c">2018-Web-100</a></td>
     <td>I lost my phone and I can&#39;t log in to my favorite website. Can you help me get access?</td>
   </tr>
   <tr>
     <td>Scoreboard v2</td>
     <td>200</td>
-    <td><a href="https://github.com/mitre-cyber-academy/2018-Web-200">2018-Web-200</a></td>
+    <td><a href="https://github.com/mitre-cyber-academy/2018-Web-200a">2018-Web-200</a></td>
     <td>Okay, we admit it. Rails is bad. Can you help us test our new login page written in Flask? It&#39;s running live here. We think its 512x better than the old one. </td>
   </tr>
   <tr>
     <td>Super Degreaser</td>
     <td>200</td>
-    <td><a href="https://github.com/mitre-cyber-academy/2018-Web-200">2018-Web-200</a></td>
+    <td><a href="https://github.com/mitre-cyber-academy/2018-Web-200b">2018-Web-200</a></td>
     <td>Cleanup on aisle 1.</td>
   </tr>
 </table>
@@ -174,25 +174,25 @@ The following is a list of all of the challenges used for the 2018 CTF along wit
   <tr>
     <td>Back to the Future</td>
     <td>100</td>
-    <td><a href="https://github.com/mitre-cyber-academy/2018--100">2018-Forensics-100</a></td>
+    <td><a href="https://github.com/mitre-cyber-academy/2018-Linux-100a">2018-Linux-100a</a></td>
     <td>Get in the pipe Marty! We gotta get all the way to Bendigo! We gotta get me keys back!</td>
   </tr>
   <tr>
     <td>It&#39;s all in the past now</td>
     <td>100</td>
-    <td><a href="https://github.com/mitre-cyber-academy/2018--100">2018-Forensics-100</a></td>
+    <td><a href="https://github.com/mitre-cyber-academy/2018-Linux-100b">2018-Linux-100b</a></td>
     <td>There is a flag stored in /flag.txt but only root can read it. Figure out how to get root access to read the flag.</td>
   </tr>
   <tr>
     <td>Set me free</td>
     <td>100</td>
-    <td><a href="https://github.com/mitre-cyber-academy/2018--100">2018-Forensics-100</a></td>
+    <td><a href="https://github.com/mitre-cyber-academy/2018-Linux-100c">2018-Linux-100c</a></td>
     <td>Someone has backdoored my VM! Find the backdoor to get the flag.</td>
   </tr>
   <tr>
     <td>How do I exit vim?</td>
     <td>150</td>
-    <td><a href="https://github.com/mitre-cyber-academy/2018--150">2018-Forensics-150</a></td>
+    <td><a href="https://github.com/mitre-cyber-academy/2018-Linux-150">2018-Linux-150</a></td>
     <td>I&#39;ve opened vim and can&#39;t exit! Can you help me?</td>
   </tr>
 </table>
