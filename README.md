@@ -35,7 +35,7 @@ The following is a list of all of the challenges used for the 2018 CTF along wit
     <td>Platform 9 and 3/4ths</td>
     <td>250</td>
     <td><a href="https://github.com/mitre-cyber-academy/2018-Crypto-250">2018-Crypto-250</a></td>
-    <td>You told your friend that his online game](https://mitre-stem-ctf.s3.amazonaws.com/c25_723a3a11d02a54f710c1caef43ea3a984adb6a40.zip) wasn&#39;t secure enough so he added some encryption. Shouldn&#39;t be possible to beat it now, right?<br/><br/>How to Run Client: Run `./preInstall.sh` which installs 32-bit libraries that the game requires. Once the script completes, the game will run automatically.</td>
+    <td>You told your friend that his online game wasn&#39;t secure enough so he added some encryption. Shouldn&#39;t be possible to beat it now, right?<br/><br/>How to Run Client: Run `./preInstall.sh` which installs 32-bit libraries that the game requires. Once the script completes, the game will run automatically.</td>
   </tr>
 </table>
 
