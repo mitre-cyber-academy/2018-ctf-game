@@ -174,25 +174,25 @@ The following is a list of all of the challenges used for the 2018 CTF along wit
   <tr>
     <td>Back to the Future</td>
     <td>100</td>
-    <td><a href="https://github.com/mitre-cyber-academy/2018-Linux-100a">2018-Linux-100a</a></td>
+    <td><a href="https://github.com/mitre-cyber-academy/2018-Linux">2018-Linux</a></td>
     <td>Get in the pipe Marty! We gotta get all the way to Bendigo! We gotta get me keys back!</td>
   </tr>
   <tr>
     <td>It&#39;s all in the past now</td>
     <td>100</td>
-    <td><a href="https://github.com/mitre-cyber-academy/2018-Linux-100b">2018-Linux-100b</a></td>
+    <td><a href="https://github.com/mitre-cyber-academy/2018-Linux">2018-Linux</a></td>
     <td>There is a flag stored in /flag.txt but only root can read it. Figure out how to get root access to read the flag.</td>
   </tr>
   <tr>
     <td>Set me free</td>
     <td>100</td>
-    <td><a href="https://github.com/mitre-cyber-academy/2018-Linux-100c">2018-Linux-100c</a></td>
+    <td><a href="https://github.com/mitre-cyber-academy/2018-Linux">2018-Linux</a></td>
     <td>Someone has backdoored my VM! Find the backdoor to get the flag.</td>
   </tr>
   <tr>
     <td>How do I exit vim?</td>
     <td>150</td>
-    <td><a href="https://github.com/mitre-cyber-academy/2018-Linux-150">2018-Linux-150</a></td>
+    <td><a href="https://github.com/mitre-cyber-academy/2018-Linux">2018-Linux</a></td>
     <td>I&#39;ve opened vim and can&#39;t exit! Can you help me?</td>
   </tr>
 </table>
